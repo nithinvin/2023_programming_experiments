@@ -7,3 +7,5 @@ print(float(data))
 print(hex(data))
 print(oct(data))
 print(bin(data))
+
+print(id(data))
